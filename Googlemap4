@@ -1,0 +1,5 @@
+import simplekml
+kml = simplekml.Kml()
+df.apply(lambda X: kml.newpoint(name=X["name"], coords=[(
+X["longitude"],X["latitude"])]) ,axis=1)
+kml.save(path = "data.kml")
