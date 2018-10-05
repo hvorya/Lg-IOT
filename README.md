@@ -1,13 +1,28 @@
-# Logistic
+# **Logistic**
+____
+
 ### Project title
+____
 ### Motivation
+____
 ### Build status
+____
 ### Code style
+____
 ### Screenshots
-       https://1drv.ms/u/s!Ah9i9T9KhdDkqiOZrKVkes3L6Y5j
+![Data flow](https://github.com/hvorya/Lg-IOT/blob/lg1/smart.gif)
+____       
 ### Tech/framework used
+____
 ### Code Example
+____
 ### Installation
+____
 ### API Reference
+____
 ### Tests
+____
 ### License
+____
+### Installing packages
+       ``` python -m pip install -U [pip or package name]
